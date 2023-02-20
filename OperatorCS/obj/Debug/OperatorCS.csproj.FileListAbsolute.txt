@@ -1,0 +1,8 @@
+E:\UHY\FirstCS\OperatorCS\bin\Debug\OperatorCS.exe.config
+E:\UHY\FirstCS\OperatorCS\bin\Debug\OperatorCS.exe
+E:\UHY\FirstCS\OperatorCS\bin\Debug\OperatorCS.pdb
+E:\UHY\FirstCS\OperatorCS\obj\Debug\OperatorCS.csproj.AssemblyReference.cache
+E:\UHY\FirstCS\OperatorCS\obj\Debug\OperatorCS.csproj.SuggestedBindingRedirects.cache
+E:\UHY\FirstCS\OperatorCS\obj\Debug\OperatorCS.csproj.CoreCompileInputs.cache
+E:\UHY\FirstCS\OperatorCS\obj\Debug\OperatorCS.exe
+E:\UHY\FirstCS\OperatorCS\obj\Debug\OperatorCS.pdb

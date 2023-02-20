@@ -1,0 +1,8 @@
+D:\FirstCS\JeongSuHyun\bin\Debug\JeongSuHyun.exe.config
+D:\FirstCS\JeongSuHyun\bin\Debug\JeongSuHyun.exe
+D:\FirstCS\JeongSuHyun\bin\Debug\JeongSuHyun.pdb
+D:\FirstCS\JeongSuHyun\obj\Debug\JeongSuHyun.csproj.AssemblyReference.cache
+D:\FirstCS\JeongSuHyun\obj\Debug\JeongSuHyun.csproj.SuggestedBindingRedirects.cache
+D:\FirstCS\JeongSuHyun\obj\Debug\JeongSuHyun.csproj.CoreCompileInputs.cache
+D:\FirstCS\JeongSuHyun\obj\Debug\JeongSuHyun.exe
+D:\FirstCS\JeongSuHyun\obj\Debug\JeongSuHyun.pdb

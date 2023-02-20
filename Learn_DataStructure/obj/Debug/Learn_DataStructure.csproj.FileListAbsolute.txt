@@ -1,0 +1,15 @@
+D:\FirstCS\Learn_DataStructure\bin\Debug\Learn_DataStructure.exe.config
+D:\FirstCS\Learn_DataStructure\bin\Debug\Learn_DataStructure.exe
+D:\FirstCS\Learn_DataStructure\bin\Debug\Learn_DataStructure.pdb
+D:\FirstCS\Learn_DataStructure\obj\Debug\Learn_DataStructure.csproj.AssemblyReference.cache
+D:\FirstCS\Learn_DataStructure\obj\Debug\Learn_DataStructure.csproj.SuggestedBindingRedirects.cache
+D:\FirstCS\Learn_DataStructure\obj\Debug\Learn_DataStructure.csproj.CoreCompileInputs.cache
+D:\FirstCS\Learn_DataStructure\obj\Debug\Learn_DataStructure.exe
+D:\FirstCS\Learn_DataStructure\obj\Debug\Learn_DataStructure.pdb
+E:\FirstCS\Learn_DataStructure\bin\Debug\Learn_DataStructure.exe.config
+E:\FirstCS\Learn_DataStructure\bin\Debug\Learn_DataStructure.exe
+E:\FirstCS\Learn_DataStructure\bin\Debug\Learn_DataStructure.pdb
+E:\FirstCS\Learn_DataStructure\obj\Debug\Learn_DataStructure.csproj.AssemblyReference.cache
+E:\FirstCS\Learn_DataStructure\obj\Debug\Learn_DataStructure.csproj.CoreCompileInputs.cache
+E:\FirstCS\Learn_DataStructure\obj\Debug\Learn_DataStructure.exe
+E:\FirstCS\Learn_DataStructure\obj\Debug\Learn_DataStructure.pdb

@@ -1,0 +1,8 @@
+D:\FirstCS\Learn_Algorithm\bin\Debug\Learn_Algorithm.exe.config
+D:\FirstCS\Learn_Algorithm\bin\Debug\Learn_Algorithm.exe
+D:\FirstCS\Learn_Algorithm\bin\Debug\Learn_Algorithm.pdb
+D:\FirstCS\Learn_Algorithm\obj\Debug\Learn_Algorithm.csproj.AssemblyReference.cache
+D:\FirstCS\Learn_Algorithm\obj\Debug\Learn_Algorithm.csproj.SuggestedBindingRedirects.cache
+D:\FirstCS\Learn_Algorithm\obj\Debug\Learn_Algorithm.csproj.CoreCompileInputs.cache
+D:\FirstCS\Learn_Algorithm\obj\Debug\Learn_Algorithm.exe
+D:\FirstCS\Learn_Algorithm\obj\Debug\Learn_Algorithm.pdb

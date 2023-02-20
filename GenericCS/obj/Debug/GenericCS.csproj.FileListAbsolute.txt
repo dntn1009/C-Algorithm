@@ -1,0 +1,8 @@
+D:\FirstCS\GenericCS\bin\Debug\GenericCS.exe.config
+D:\FirstCS\GenericCS\bin\Debug\GenericCS.exe
+D:\FirstCS\GenericCS\bin\Debug\GenericCS.pdb
+D:\FirstCS\GenericCS\obj\Debug\GenericCS.csproj.AssemblyReference.cache
+D:\FirstCS\GenericCS\obj\Debug\GenericCS.csproj.SuggestedBindingRedirects.cache
+D:\FirstCS\GenericCS\obj\Debug\GenericCS.csproj.CoreCompileInputs.cache
+D:\FirstCS\GenericCS\obj\Debug\GenericCS.exe
+D:\FirstCS\GenericCS\obj\Debug\GenericCS.pdb
