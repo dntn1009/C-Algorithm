@@ -1,0 +1,8 @@
+E:\UHY\FirstCS\ArrayCS\bin\Debug\ArrayCS.exe.config
+E:\UHY\FirstCS\ArrayCS\bin\Debug\ArrayCS.exe
+E:\UHY\FirstCS\ArrayCS\bin\Debug\ArrayCS.pdb
+E:\UHY\FirstCS\ArrayCS\obj\Debug\ArrayCS.csproj.AssemblyReference.cache
+E:\UHY\FirstCS\ArrayCS\obj\Debug\ArrayCS.csproj.SuggestedBindingRedirects.cache
+E:\UHY\FirstCS\ArrayCS\obj\Debug\ArrayCS.csproj.CoreCompileInputs.cache
+E:\UHY\FirstCS\ArrayCS\obj\Debug\ArrayCS.exe
+E:\UHY\FirstCS\ArrayCS\obj\Debug\ArrayCS.pdb
