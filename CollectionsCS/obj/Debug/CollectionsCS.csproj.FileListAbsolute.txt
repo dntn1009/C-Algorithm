@@ -1,0 +1,8 @@
+D:\FirstCS\CollectionsCS\bin\Debug\CollectionsCS.exe.config
+D:\FirstCS\CollectionsCS\bin\Debug\CollectionsCS.exe
+D:\FirstCS\CollectionsCS\bin\Debug\CollectionsCS.pdb
+D:\FirstCS\CollectionsCS\obj\Debug\CollectionsCS.csproj.AssemblyReference.cache
+D:\FirstCS\CollectionsCS\obj\Debug\CollectionsCS.csproj.SuggestedBindingRedirects.cache
+D:\FirstCS\CollectionsCS\obj\Debug\CollectionsCS.csproj.CoreCompileInputs.cache
+D:\FirstCS\CollectionsCS\obj\Debug\CollectionsCS.exe
+D:\FirstCS\CollectionsCS\obj\Debug\CollectionsCS.pdb

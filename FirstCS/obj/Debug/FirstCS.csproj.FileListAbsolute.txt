@@ -1,0 +1,8 @@
+E:\UHY\FirstCS\FirstCS\bin\Debug\FirstCS.exe.config
+E:\UHY\FirstCS\FirstCS\bin\Debug\FirstCS.exe
+E:\UHY\FirstCS\FirstCS\bin\Debug\FirstCS.pdb
+E:\UHY\FirstCS\FirstCS\obj\Debug\FirstCS.csproj.AssemblyReference.cache
+E:\UHY\FirstCS\FirstCS\obj\Debug\FirstCS.csproj.SuggestedBindingRedirects.cache
+E:\UHY\FirstCS\FirstCS\obj\Debug\FirstCS.csproj.CoreCompileInputs.cache
+E:\UHY\FirstCS\FirstCS\obj\Debug\FirstCS.exe
+E:\UHY\FirstCS\FirstCS\obj\Debug\FirstCS.pdb

@@ -1,0 +1,8 @@
+E:\UHY\FirstCS\ControlCS\bin\Debug\ControlCS.exe.config
+E:\UHY\FirstCS\ControlCS\bin\Debug\ControlCS.exe
+E:\UHY\FirstCS\ControlCS\bin\Debug\ControlCS.pdb
+E:\UHY\FirstCS\ControlCS\obj\Debug\ControlCS.csproj.AssemblyReference.cache
+E:\UHY\FirstCS\ControlCS\obj\Debug\ControlCS.csproj.SuggestedBindingRedirects.cache
+E:\UHY\FirstCS\ControlCS\obj\Debug\ControlCS.csproj.CoreCompileInputs.cache
+E:\UHY\FirstCS\ControlCS\obj\Debug\ControlCS.exe
+E:\UHY\FirstCS\ControlCS\obj\Debug\ControlCS.pdb

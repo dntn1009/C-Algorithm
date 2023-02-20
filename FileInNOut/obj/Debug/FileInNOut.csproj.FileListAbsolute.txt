@@ -1,0 +1,8 @@
+D:\FirstCS\FileInNOut\bin\Debug\FileInNOut.exe.config
+D:\FirstCS\FileInNOut\bin\Debug\FileInNOut.exe
+D:\FirstCS\FileInNOut\bin\Debug\FileInNOut.pdb
+D:\FirstCS\FileInNOut\obj\Debug\FileInNOut.csproj.AssemblyReference.cache
+D:\FirstCS\FileInNOut\obj\Debug\FileInNOut.csproj.SuggestedBindingRedirects.cache
+D:\FirstCS\FileInNOut\obj\Debug\FileInNOut.csproj.CoreCompileInputs.cache
+D:\FirstCS\FileInNOut\obj\Debug\FileInNOut.exe
+D:\FirstCS\FileInNOut\obj\Debug\FileInNOut.pdb
